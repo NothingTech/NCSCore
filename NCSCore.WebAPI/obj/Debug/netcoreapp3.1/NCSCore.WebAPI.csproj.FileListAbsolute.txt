@@ -1,0 +1,10 @@
+D:\NCSCore\NCSCore\NCSCore\NCSCore.WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\NCSCore\NCSCore\NCSCore\NCSCore.WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\NCSCore\NCSCore\NCSCore\NCSCore.WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\NCSCore\NCSCore\NCSCore\NCSCore.WebAPI\bin\Debug\netcoreapp3.1\NCSCore.WebAPI.exe
+D:\NCSCore\NCSCore\NCSCore\NCSCore.WebAPI\obj\Debug\netcoreapp3.1\NCSCore.WebAPI.csprojAssemblyReference.cache
+D:\NCSCore\NCSCore\NCSCore\NCSCore.WebAPI\obj\Debug\netcoreapp3.1\NCSCore.WebAPI.AssemblyInfoInputs.cache
+D:\NCSCore\NCSCore\NCSCore\NCSCore.WebAPI\obj\Debug\netcoreapp3.1\NCSCore.WebAPI.AssemblyInfo.cs
+D:\NCSCore\NCSCore\NCSCore\NCSCore.WebAPI\obj\Debug\netcoreapp3.1\NCSCore.WebAPI.RazorTargetAssemblyInfo.cache
+D:\NCSCore\NCSCore\NCSCore\NCSCore.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\NCSCore.WebAPI.StaticWebAssets.Manifest.cache
+D:\NCSCore\NCSCore\NCSCore\NCSCore.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\NCSCore.WebAPI.StaticWebAssets.xml

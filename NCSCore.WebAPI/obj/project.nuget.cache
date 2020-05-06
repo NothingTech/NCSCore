@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HFYn6p0CvF2NcPQrez7zZ7mNQaEah5DByd4YU8sSPu031V7SEIeSpPB4BNxeBRcTdJsWLpE6rlAfVLL0w6A4yw==",
+  "success": true,
+  "projectFilePath": "D:\\NCSCore\\NCSCore\\NCSCore\\NCSCore.WebAPI\\NCSCore.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
