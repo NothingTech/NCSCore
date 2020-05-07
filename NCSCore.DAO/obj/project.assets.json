@@ -282,20 +282,6 @@
           "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
         }
       },
-      "NCSCore.Dao/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "NCSCore.Entity": "1.0.0",
-          "Pomelo.EntityFrameworkCore.MySql": "3.1.1"
-        },
-        "compile": {
-          "bin/placeholder/NCSCore.Dao.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/NCSCore.Dao.dll": {}
-        }
-      },
       "NCSCore.Entity/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -883,11 +869,6 @@
         "version.txt"
       ]
     },
-    "NCSCore.Dao/1.0.0": {
-      "type": "project",
-      "path": "../NCSCore.DAO/NCSCore.Dao.csproj",
-      "msbuildProject": "../NCSCore.DAO/NCSCore.Dao.csproj"
-    },
     "NCSCore.Entity/1.0.0": {
       "type": "project",
       "path": "../NCSCore.Entity/NCSCore.Entity.csproj",
@@ -896,7 +877,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "NCSCore.Dao >= 1.0.0"
+      "NCSCore.Entity >= 1.0.0",
+      "Pomelo.EntityFrameworkCore.MySql >= 3.1.1"
     ]
   },
   "packageFolders": {
@@ -905,11 +887,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NCSCore\\NCSCore\\NCSCore.Service\\NCSCore.Service.csproj",
-      "projectName": "NCSCore.Service",
-      "projectPath": "D:\\NCSCore\\NCSCore\\NCSCore.Service\\NCSCore.Service.csproj",
+      "projectUniqueName": "D:\\NCSCore\\NCSCore\\NCSCore.DAO\\NCSCore.Dao.csproj",
+      "projectName": "NCSCore.Dao",
+      "projectPath": "D:\\NCSCore\\NCSCore\\NCSCore.DAO\\NCSCore.Dao.csproj",
       "packagesPath": "C:\\Users\\neo\\.nuget\\packages\\",
-      "outputPath": "D:\\NCSCore\\NCSCore\\NCSCore.Service\\obj\\",
+      "outputPath": "D:\\NCSCore\\NCSCore\\NCSCore.DAO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\neo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -925,8 +907,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\NCSCore\\NCSCore\\NCSCore.DAO\\NCSCore.Dao.csproj": {
-              "projectPath": "D:\\NCSCore\\NCSCore\\NCSCore.DAO\\NCSCore.Dao.csproj"
+            "D:\\NCSCore\\NCSCore\\NCSCore.Entity\\NCSCore.Entity.csproj": {
+              "projectPath": "D:\\NCSCore\\NCSCore\\NCSCore.Entity\\NCSCore.Entity.csproj"
             }
           }
         }
@@ -939,6 +921,12 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "dependencies": {
+          "Pomelo.EntityFrameworkCore.MySql": {
+            "target": "Package",
+            "version": "[3.1.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

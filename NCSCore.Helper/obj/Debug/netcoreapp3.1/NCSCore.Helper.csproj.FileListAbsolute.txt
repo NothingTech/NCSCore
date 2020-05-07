@@ -1,9 +1,0 @@
-D:\NCSCore\NCSCore\NCSCore.Helper\bin\Debug\netcoreapp3.1\NCSCore.Helper.deps.json
-D:\NCSCore\NCSCore\NCSCore.Helper\bin\Debug\netcoreapp3.1\NCSCore.Helper.dll
-D:\NCSCore\NCSCore\NCSCore.Helper\bin\Debug\netcoreapp3.1\NCSCore.Helper.pdb
-D:\NCSCore\NCSCore\NCSCore.Helper\obj\Debug\netcoreapp3.1\NCSCore.Helper.csprojAssemblyReference.cache
-D:\NCSCore\NCSCore\NCSCore.Helper\obj\Debug\netcoreapp3.1\NCSCore.Helper.csproj.CoreCompileInputs.cache
-D:\NCSCore\NCSCore\NCSCore.Helper\obj\Debug\netcoreapp3.1\NCSCore.Helper.AssemblyInfoInputs.cache
-D:\NCSCore\NCSCore\NCSCore.Helper\obj\Debug\netcoreapp3.1\NCSCore.Helper.AssemblyInfo.cs
-D:\NCSCore\NCSCore\NCSCore.Helper\obj\Debug\netcoreapp3.1\NCSCore.Helper.dll
-D:\NCSCore\NCSCore\NCSCore.Helper\obj\Debug\netcoreapp3.1\NCSCore.Helper.pdb

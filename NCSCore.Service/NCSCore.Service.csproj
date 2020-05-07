@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NCSCore.DAL\NCSCore.Dao.csproj" />
+    <ProjectReference Include="..\NCSCore.DAO\NCSCore.Dao.csproj" />
   </ItemGroup>
 
 </Project>

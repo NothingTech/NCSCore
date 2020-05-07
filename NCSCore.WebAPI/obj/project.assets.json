@@ -8491,8 +8491,8 @@
     },
     "NCSCore.Dao/1.0.0": {
       "type": "project",
-      "path": "../NCSCore.DAL/NCSCore.Dao.csproj",
-      "msbuildProject": "../NCSCore.DAL/NCSCore.Dao.csproj"
+      "path": "../NCSCore.DAO/NCSCore.Dao.csproj",
+      "msbuildProject": "../NCSCore.DAO/NCSCore.Dao.csproj"
     },
     "NCSCore.Entity/1.0.0": {
       "type": "project",
@@ -8540,8 +8540,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\NCSCore\\NCSCore\\NCSCore.DAL\\NCSCore.Dao.csproj": {
-              "projectPath": "D:\\NCSCore\\NCSCore\\NCSCore.DAL\\NCSCore.Dao.csproj"
+            "D:\\NCSCore\\NCSCore\\NCSCore.DAO\\NCSCore.Dao.csproj": {
+              "projectPath": "D:\\NCSCore\\NCSCore\\NCSCore.DAO\\NCSCore.Dao.csproj"
             }
           }
         }

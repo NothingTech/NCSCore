@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NCSCore.Entity", "NCSCore.Entity\NCSCore.Entity.csproj", "{32006543-5142-4DE1-8959-584E92CDB400}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NCSCore.Dao", "NCSCore.DAL\NCSCore.Dao.csproj", "{4378395D-17E8-49A0-AD3B-F081CED99C84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NCSCore.Dao", "NCSCore.DAO\NCSCore.Dao.csproj", "{4378395D-17E8-49A0-AD3B-F081CED99C84}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NCSCore.Service", "NCSCore.Service\NCSCore.Service.csproj", "{8C0FFF85-1ABD-4577-AD5C-DE59D66B2EA9}"
 EndProject

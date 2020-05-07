@@ -4,14 +4,14 @@
     "D:\\NCSCore\\NCSCore\\NCSCore.Service\\NCSCore.Service.csproj": {}
   },
   "projects": {
-    "D:\\NCSCore\\NCSCore\\NCSCore.DAL\\NCSCore.Dao.csproj": {
+    "D:\\NCSCore\\NCSCore\\NCSCore.DAO\\NCSCore.Dao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NCSCore\\NCSCore\\NCSCore.DAL\\NCSCore.Dao.csproj",
+        "projectUniqueName": "D:\\NCSCore\\NCSCore\\NCSCore.DAO\\NCSCore.Dao.csproj",
         "projectName": "NCSCore.Dao",
-        "projectPath": "D:\\NCSCore\\NCSCore\\NCSCore.DAL\\NCSCore.Dao.csproj",
+        "projectPath": "D:\\NCSCore\\NCSCore\\NCSCore.DAO\\NCSCore.Dao.csproj",
         "packagesPath": "C:\\Users\\neo\\.nuget\\packages\\",
-        "outputPath": "D:\\NCSCore\\NCSCore\\NCSCore.DAL\\obj\\",
+        "outputPath": "D:\\NCSCore\\NCSCore\\NCSCore.DAO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\neo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -147,8 +147,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\NCSCore\\NCSCore\\NCSCore.DAL\\NCSCore.Dao.csproj": {
-                "projectPath": "D:\\NCSCore\\NCSCore\\NCSCore.DAL\\NCSCore.Dao.csproj"
+              "D:\\NCSCore\\NCSCore\\NCSCore.DAO\\NCSCore.Dao.csproj": {
+                "projectPath": "D:\\NCSCore\\NCSCore\\NCSCore.DAO\\NCSCore.Dao.csproj"
               }
             }
           }
