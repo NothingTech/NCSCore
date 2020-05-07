@@ -1,0 +1,12 @@
+D:\NCSCore\NCSCore\NCSCore.DAL\bin\Debug\netcoreapp3.1\NCSCore.Dao.deps.json
+D:\NCSCore\NCSCore\NCSCore.DAL\bin\Debug\netcoreapp3.1\NCSCore.Dao.dll
+D:\NCSCore\NCSCore\NCSCore.DAL\obj\Debug\netcoreapp3.1\NCSCore.Dao.csprojAssemblyReference.cache
+D:\NCSCore\NCSCore\NCSCore.DAL\obj\Debug\netcoreapp3.1\NCSCore.Dao.AssemblyInfoInputs.cache
+D:\NCSCore\NCSCore\NCSCore.DAL\obj\Debug\netcoreapp3.1\NCSCore.Dao.AssemblyInfo.cs
+D:\NCSCore\NCSCore\NCSCore.DAL\obj\Debug\netcoreapp3.1\NCSCore.Dao.csproj.CoreCompileInputs.cache
+D:\NCSCore\NCSCore\NCSCore.DAL\bin\Debug\netcoreapp3.1\NCSCore.Dao.pdb
+D:\NCSCore\NCSCore\NCSCore.DAL\bin\Debug\netcoreapp3.1\NCSCore.Entity.dll
+D:\NCSCore\NCSCore\NCSCore.DAL\bin\Debug\netcoreapp3.1\NCSCore.Entity.pdb
+D:\NCSCore\NCSCore\NCSCore.DAL\obj\Debug\netcoreapp3.1\NCSCore.Dao.csproj.CopyComplete
+D:\NCSCore\NCSCore\NCSCore.DAL\obj\Debug\netcoreapp3.1\NCSCore.Dao.dll
+D:\NCSCore\NCSCore\NCSCore.DAL\obj\Debug\netcoreapp3.1\NCSCore.Dao.pdb

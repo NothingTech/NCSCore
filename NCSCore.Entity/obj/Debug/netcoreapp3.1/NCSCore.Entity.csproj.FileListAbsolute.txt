@@ -1,0 +1,9 @@
+D:\NCSCore\NCSCore\NCSCore.Entity\bin\Debug\netcoreapp3.1\NCSCore.Entity.deps.json
+D:\NCSCore\NCSCore\NCSCore.Entity\bin\Debug\netcoreapp3.1\NCSCore.Entity.dll
+D:\NCSCore\NCSCore\NCSCore.Entity\obj\Debug\netcoreapp3.1\NCSCore.Entity.csprojAssemblyReference.cache
+D:\NCSCore\NCSCore\NCSCore.Entity\obj\Debug\netcoreapp3.1\NCSCore.Entity.AssemblyInfoInputs.cache
+D:\NCSCore\NCSCore\NCSCore.Entity\obj\Debug\netcoreapp3.1\NCSCore.Entity.AssemblyInfo.cs
+D:\NCSCore\NCSCore\NCSCore.Entity\bin\Debug\netcoreapp3.1\NCSCore.Entity.pdb
+D:\NCSCore\NCSCore\NCSCore.Entity\obj\Debug\netcoreapp3.1\NCSCore.Entity.csproj.CoreCompileInputs.cache
+D:\NCSCore\NCSCore\NCSCore.Entity\obj\Debug\netcoreapp3.1\NCSCore.Entity.dll
+D:\NCSCore\NCSCore\NCSCore.Entity\obj\Debug\netcoreapp3.1\NCSCore.Entity.pdb

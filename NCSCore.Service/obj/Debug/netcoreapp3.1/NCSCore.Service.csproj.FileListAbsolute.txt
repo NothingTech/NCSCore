@@ -1,0 +1,14 @@
+D:\NCSCore\NCSCore\NCSCore.Service\bin\Debug\netcoreapp3.1\NCSCore.Service.deps.json
+D:\NCSCore\NCSCore\NCSCore.Service\bin\Debug\netcoreapp3.1\NCSCore.Service.dll
+D:\NCSCore\NCSCore\NCSCore.Service\bin\Debug\netcoreapp3.1\NCSCore.Service.pdb
+D:\NCSCore\NCSCore\NCSCore.Service\obj\Debug\netcoreapp3.1\NCSCore.Service.csprojAssemblyReference.cache
+D:\NCSCore\NCSCore\NCSCore.Service\obj\Debug\netcoreapp3.1\NCSCore.Service.csproj.CoreCompileInputs.cache
+D:\NCSCore\NCSCore\NCSCore.Service\obj\Debug\netcoreapp3.1\NCSCore.Service.AssemblyInfoInputs.cache
+D:\NCSCore\NCSCore\NCSCore.Service\obj\Debug\netcoreapp3.1\NCSCore.Service.AssemblyInfo.cs
+D:\NCSCore\NCSCore\NCSCore.Service\obj\Debug\netcoreapp3.1\NCSCore.Service.dll
+D:\NCSCore\NCSCore\NCSCore.Service\obj\Debug\netcoreapp3.1\NCSCore.Service.pdb
+D:\NCSCore\NCSCore\NCSCore.Service\bin\Debug\netcoreapp3.1\NCSCore.Dao.dll
+D:\NCSCore\NCSCore\NCSCore.Service\bin\Debug\netcoreapp3.1\NCSCore.Entity.dll
+D:\NCSCore\NCSCore\NCSCore.Service\bin\Debug\netcoreapp3.1\NCSCore.Dao.pdb
+D:\NCSCore\NCSCore\NCSCore.Service\bin\Debug\netcoreapp3.1\NCSCore.Entity.pdb
+D:\NCSCore\NCSCore\NCSCore.Service\obj\Debug\netcoreapp3.1\NCSCore.Service.csproj.CopyComplete
