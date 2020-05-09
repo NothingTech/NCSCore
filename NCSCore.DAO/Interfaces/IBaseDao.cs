@@ -124,7 +124,7 @@ namespace NCSCore.Dao.Interfaces
         /// 获取数据驱动上下文
         /// </summary>
         /// <returns></returns>
-        NCSContext GetOMSContext();
+        NCSContext GetNCSContext();
 
         int ExecuteSqlTran(Dictionary<string, MySqlParameterSql> CommandInfo);
         #endregion

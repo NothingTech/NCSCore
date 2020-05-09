@@ -378,7 +378,7 @@ namespace NCSCore.Dao.Implements
                 this._logger.LogError("方法：EditEntitys" + "参数IList<T>的数量:" + ilEntity.Count + "错误信息：" + ex.Message);
             }
         }
-        public NCSContext GetOMSContext() 
+        public NCSContext GetNCSContext() 
         {
             return this._context;
         }

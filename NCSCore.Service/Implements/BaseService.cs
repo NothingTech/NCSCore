@@ -9,7 +9,7 @@ using System.Data;
 using System.Linq.Expressions;
 
 
-namespace OMS.BLL.Implements
+namespace NCSCore.Service.Implements
 {
     public class BaseService<T> : IBaseService<T> where T : class, new()
     {
@@ -23,7 +23,7 @@ namespace OMS.BLL.Implements
             _dal = dal;
         }
 
-        public bool OMSInsert(T entity, ref string Msg)
+        public bool NCSInsert(T entity, ref string Msg)
         {
 
             try
@@ -50,7 +50,7 @@ namespace OMS.BLL.Implements
             return Flag;
         }
 
-        public bool OMSInsert(IList<T> entitys, ref string Msg)
+        public bool NCSInsert(IList<T> entitys, ref string Msg)
         {
 
             try
@@ -76,7 +76,7 @@ namespace OMS.BLL.Implements
             }
             return Flag;
         }
-        public bool OMSUpdate(IList<T> entitys, ref string Msg)
+        public bool NCSUpdate(IList<T> entitys, ref string Msg)
         {
 
             try
@@ -103,7 +103,7 @@ namespace OMS.BLL.Implements
             return Flag;
         }
 
-        public bool OMSDelete(T entity, ref string Msg)
+        public bool NCSDelete(T entity, ref string Msg)
         {
             try
             {
@@ -129,7 +129,7 @@ namespace OMS.BLL.Implements
             return Flag;
         }
 
-        public bool OMSDeletes(IList<T> entitys, ref string Msg)
+        public bool NCSDeletes(IList<T> entitys, ref string Msg)
         {
             try
             {
@@ -155,7 +155,7 @@ namespace OMS.BLL.Implements
             return Flag;
         }
 
-        public bool OMSUpdate(T entity, ref string Msg)
+        public bool NCSUpdate(T entity, ref string Msg)
         {
             try
             {
@@ -181,7 +181,7 @@ namespace OMS.BLL.Implements
             return Flag;
         }
 
-        public bool OMSExecuteSql(string Sql, ref string Msg, params object[] parameters)
+        public bool NCSExecuteSql(string Sql, ref string Msg, params object[] parameters)
         {
             try
             {
@@ -197,7 +197,7 @@ namespace OMS.BLL.Implements
             return Flag;
         }
 
-        public IList<T> OMSGetEntities(ref string Msg, Expression<Func<T, bool>> where = null)
+        public IList<T> NCSGetEntities(ref string Msg, Expression<Func<T, bool>> where = null)
         {
 
             try
@@ -213,7 +213,7 @@ namespace OMS.BLL.Implements
             }
         }
 
-        public IList<T> OMSSelectToSql(string Sql, ref string Msg)
+        public IList<T> NCSSelectToSql(string Sql, ref string Msg)
         {
             IList<T> ilQuery = null;
             try
@@ -232,7 +232,7 @@ namespace OMS.BLL.Implements
             return ilQuery;
         }
 
-        public IList<T> OMSSelectToSql(string Sql, ref string Msg, params object[] parameters)
+        public IList<T> NCSSelectToSql(string Sql, ref string Msg, params object[] parameters)
         {
             IList<T> ilQuery = null;
             try
@@ -251,7 +251,7 @@ namespace OMS.BLL.Implements
             return ilQuery;
         }
 
-        public IList<T> OMSSelectToSql(string Sql, ref string Msg, params MySqlParameterExt[] parameters)
+        public IList<T> NCSSelectToSql(string Sql, ref string Msg, params MySqlParameterExt[] parameters)
         {
             IList<T> ilQuery = null;
             try
@@ -276,7 +276,7 @@ namespace OMS.BLL.Implements
 
         }
 
-        public DataTable OMSSelectToDataTable(string Sql, ref string Msg)
+        public DataTable NCSSelectToDataTable(string Sql, ref string Msg)
         {
             DataTable dt = null;
             try
@@ -293,7 +293,7 @@ namespace OMS.BLL.Implements
             return dt;
         }
 
-        public object OMSSelectToFirstObject(string Sql, ref string Msg)
+        public object NCSSelectToFirstObject(string Sql, ref string Msg)
         {
             object obj = null;
             try
@@ -316,38 +316,38 @@ namespace OMS.BLL.Implements
 
         #region 
 
-        public void OMSInsert(T entity, ref NCSContext dbcontext) 
+        public void NCSInsert(T entity, ref NCSContext dbcontext) 
         {
             _dal.AddEntity(entity, ref dbcontext);
         }
 
-        public void OMSInsert(IList<T> entitys, ref NCSContext dbcontext) 
+        public void NCSInsert(IList<T> entitys, ref NCSContext dbcontext) 
         {
             _dal.AddEntity(entitys, ref dbcontext);
         }
 
-        public void OMSUpdate(T entity, ref NCSContext dbcontext) 
+        public void NCSUpdate(T entity, ref NCSContext dbcontext) 
         {
             _dal.EditEntity(entity, ref dbcontext);
         }
 
-        public void OMSUpdate(IList<T> entitys, ref NCSContext dbcontext) 
+        public void NCSUpdate(IList<T> entitys, ref NCSContext dbcontext) 
         {
             _dal.EditEntity(entitys, ref dbcontext);
         }
 
-        public void OMSDelete(T entity, ref NCSContext dbcontext) 
+        public void NCSDelete(T entity, ref NCSContext dbcontext) 
         {
             _dal.RemoveEntity(entity ,ref dbcontext);
         }
 
-        public void OMSDelete(IList<T> entitys, ref NCSContext dbcontext) 
+        public void NCSDelete(IList<T> entitys, ref NCSContext dbcontext) 
         {
             _dal.RemoveEntity(entitys, ref dbcontext);
         }
-        public NCSContext GetOMSContext() 
+        public NCSContext GetNCSContext() 
         {
-            return _dal.GetOMSContext();
+            return _dal.GetNCSContext();
         }
 
         /// <summary>
