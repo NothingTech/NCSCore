@@ -14,6 +14,9 @@ using NCSCore.Dao.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json.Serialization;
 using NCSCore.Entity;
+using NCSCore.Service;
+using NCSCore.Service.Interfaces;
+using NCSCore.Service.Implements;
 
 namespace NCSCore.WebAPI
 {
@@ -117,7 +120,7 @@ namespace NCSCore.WebAPI
 
             services.AddTransient(typeof(IBaseDao<>), typeof(BaseDao<>));
             #region BLL²ã×¢Èë
-
+            services.AddTransient(typeof(IDemoService), typeof(DemoService));
             #endregion
         }
     }

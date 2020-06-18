@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -120,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -149,6 +149,9 @@
             "projectReferences": {
               "D:\\NCSCore\\NCSCore\\NCSCore.DAO\\NCSCore.Dao.csproj": {
                 "projectPath": "D:\\NCSCore\\NCSCore\\NCSCore.DAO\\NCSCore.Dao.csproj"
+              },
+              "D:\\NCSCore\\NCSCore\\NCSCore.Entity\\NCSCore.Entity.csproj": {
+                "projectPath": "D:\\NCSCore\\NCSCore\\NCSCore.Entity\\NCSCore.Entity.csproj"
               }
             }
           }
@@ -176,7 +179,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

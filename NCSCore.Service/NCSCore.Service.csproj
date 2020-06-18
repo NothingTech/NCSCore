@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\NCSCore.DAO\NCSCore.Dao.csproj" />
+    <ProjectReference Include="..\NCSCore.Entity\NCSCore.Entity.csproj" />
   </ItemGroup>
 
 </Project>
